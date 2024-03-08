@@ -1,5 +1,5 @@
-### Hi, I'm Nicole
-# 💫 About Me
+### 👋🏽Hi, I'm Nicole!
+
 👩‍💻Aspiring Software Engineer<br>👩🏽‍🎓Currently studying Computer Science<br>😍Sharing my tech journey on GitHub<br>#publiclearning
 
 
