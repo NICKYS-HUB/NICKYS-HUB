@@ -1,6 +1,6 @@
 ### Hi, I'm Nicole
 # 💫 About Me:
-Aspiring Software Engineer<br>Currently studying Computer Science<br>Sharing my tech journey on GitHub<br>#publiclearning
+👩‍💻Aspiring Software Engineer<br>👩🏽‍🎓Currently studying Computer Science<br>😍Sharing my tech journey on GitHub<br>#publiclearning
 
 
 # 💻 Tech Stack:
